@@ -3,7 +3,7 @@
 Personal portfolio to showcase my projects, skills and QA experience,
 
 **Live:**
-- https://elyorxujam.com
+- https://elyorxujam.uz
 
 **About me:**
 - QA Engineer focused on web testing, api testing and quality improvement.
